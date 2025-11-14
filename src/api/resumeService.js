@@ -1,5 +1,6 @@
 import { DEFAULT_RESUME, STORAGE_KEYS } from "../utils/constants";
-import { useRef,useEffect} from "react";
+// import { useRef,useEffect} from "react"; used in my saferAutoSaveResume but not functional yet
+
 // fxn to simulate delay
 const delay = (ms) => new Promise((resolve) => setTimeout(resolve, ms));
 // get resumes from localStorage

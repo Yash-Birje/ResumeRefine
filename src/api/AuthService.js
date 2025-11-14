@@ -1,4 +1,4 @@
-import { User } from "lucide-react";
+// import { User } from "lucide-react"; huh when did i do this bruh. (^^*)
 
 //delay function to simulate network request
 const delay = (ms) => new Promise(resolve => setTimeout(resolve, ms));
